@@ -61,3 +61,19 @@ cpp파일
 ![image](https://user-images.githubusercontent.com/80494367/121825357-e3bb8e80-ccec-11eb-9bfe-9f49efbee8d4.png)
 
 Use Contoller Rotation 체크 해제하면  케릭터가  회전 자유롭게
+
+
+
+![image](https://user-images.githubusercontent.com/80494367/123014088-700e3580-d400-11eb-9627-618a6a50843b.png)
+
+결과
+
+![image](https://user-images.githubusercontent.com/80494367/123014175-97fd9900-d400-11eb-9181-204e07c304f6.png)
+헤더파일 코드
+
+UPROPERT에 해당하는 클래스 들의 헤더파일 불러오기 필수
+
+![image](https://user-images.githubusercontent.com/80494367/123014147-887e5000-d400-11eb-8985-ba5514412f5b.png)
+cpp 코드
+
+
